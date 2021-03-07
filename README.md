@@ -1,6 +1,6 @@
 # Rest-Api-with-Express
-This is a rest api created with express. i have used the mongo database to store the data.
-Jwt is used to manage and also to provide toke that is used to aacess the private routes.
+This is a rest api created with express.  have used the mongo database to store the data.
+Jwt is used to manage and also to provide token that is used to aacess the private routes.
 Joi is used to validate user input
 There are 3 routes - 
 api/users/register.  -- to register the users
